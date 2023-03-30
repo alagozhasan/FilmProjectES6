@@ -1,3 +1,4 @@
-# _04_FilmProject-ES6
+Dinamik çalışan bir film arşivleme sitesi.Browser ın depolama alanları kullanıldı.
 
-İlk dinamik web sayfam daha sonra güncellemeyi planlıyorum.26/02/23 v1
+Dynamic website that archives movies.
+That use browser sotrages.
